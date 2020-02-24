@@ -8,8 +8,12 @@
     margin: -5px 5px;
 }
 
-.jumbotron{
+.jumbotron {
     background-image: url("./images/jumboface.gif");
+}
+
+.jumboText {
+    background-color: rgba(255, 192, 203, 0.507);
 }
 
 body {
