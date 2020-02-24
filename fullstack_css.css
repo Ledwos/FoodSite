@@ -1,0 +1,40 @@
+.navbar {
+    background-color: rgb(209, 76, 76);
+}
+
+.navbar-brand > img {
+    height: 50px;
+    width: 50px;
+    margin: -5px 5px;
+}
+body {
+    background-color: rgb(255, 176, 187);
+    padding-top: 65px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    color: rgb(190, 59, 59);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    text-shadow: -1px -1px #000, 1px 1px #000, -1px 1px #000, 1px -1px #000;
+    margin-bottom: 30px;
+}
+
+
+.row > img {
+    height: 250px;
+    width: 400px;
+    align-self: center;
+    margin-bottom: 30px;
+}
